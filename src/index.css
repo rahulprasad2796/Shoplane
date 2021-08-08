@@ -208,6 +208,7 @@ body {
 @media (max-width:400px) {
     #topbar {
         padding: 0;
+        justify-content: flex-start;
     }
     #search-wrapper {
         display: none;
@@ -252,5 +253,11 @@ body {
     }
     #accessory {
         width: 100%;
+    }
+    #right-menu img {
+        display: none;
+    }
+    #right-menu {
+        margin-left: 20px;
     }
  }

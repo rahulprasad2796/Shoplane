@@ -8,3 +8,13 @@
     width: 400px;
     margin-left: 70px;
 }
+
+@media (max-width:400px) {
+    #success img {
+        width: 300px;
+        margin-left: 0;
+    }
+    #success h1, #success h2 {
+        text-align: center;
+    }
+}
