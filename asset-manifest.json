@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Shoplane/static/css/main.8db3a5f0.chunk.css",
+    "main.js": "/Shoplane/static/js/main.f3dcbce3.chunk.js",
+    "main.js.map": "/Shoplane/static/js/main.f3dcbce3.chunk.js.map",
+    "runtime-main.js": "/Shoplane/static/js/runtime-main.a18cde24.js",
+    "runtime-main.js.map": "/Shoplane/static/js/runtime-main.a18cde24.js.map",
+    "static/js/2.9e7439f2.chunk.js": "/Shoplane/static/js/2.9e7439f2.chunk.js",
+    "static/js/2.9e7439f2.chunk.js.map": "/Shoplane/static/js/2.9e7439f2.chunk.js.map",
+    "static/js/3.3a499032.chunk.js": "/Shoplane/static/js/3.3a499032.chunk.js",
+    "static/js/3.3a499032.chunk.js.map": "/Shoplane/static/js/3.3a499032.chunk.js.map",
+    "index.html": "/Shoplane/index.html",
+    "static/css/main.8db3a5f0.chunk.css.map": "/Shoplane/static/css/main.8db3a5f0.chunk.css.map",
+    "static/js/2.9e7439f2.chunk.js.LICENSE.txt": "/Shoplane/static/js/2.9e7439f2.chunk.js.LICENSE.txt",
+    "static/media/circle-cropped.5f7fec34.png": "/Shoplane/static/media/circle-cropped.5f7fec34.png",
+    "static/media/edyoda.88de1bb2.png": "/Shoplane/static/media/edyoda.88de1bb2.png",
+    "static/media/h&m.9007d84c.png": "/Shoplane/static/media/h&m.9007d84c.png",
+    "static/media/img_confirm.2027e955.png": "/Shoplane/static/media/img_confirm.2027e955.png",
+    "static/media/polo.88dc38c8.png": "/Shoplane/static/media/polo.88dc38c8.png",
+    "static/media/puma.c2ca730c.png": "/Shoplane/static/media/puma.c2ca730c.png",
+    "static/media/wonder.d28aba27.png": "/Shoplane/static/media/wonder.d28aba27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18cde24.js",
+    "static/js/2.9e7439f2.chunk.js",
+    "static/css/main.8db3a5f0.chunk.css",
+    "static/js/main.f3dcbce3.chunk.js"
+  ]
+}
