@@ -1,0 +1,121 @@
+#product {
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#left {
+    width: 40%;
+}
+
+#left img {
+    width: 100%;
+    margin-top: 50px;
+}
+
+#rright {
+    width: 60%;
+    margin-top: 40px;
+    padding-left: 30px;
+}
+
+#rright h1{
+    font-weight: 300;
+    font-size: 44px;
+    letter-spacing: -2px;
+}
+
+#rright h2, h3, h4, p, #brand {
+    margin-top: 20px;
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: rgb(27, 25, 25);
+}
+
+#rright h5 {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #86939e;
+}
+
+#preview img {
+    margin: 5px;
+    width: 15%;
+    height: 30%;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+#rright h3 span {
+    color: #009688;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    padding: 10px 20px;
+    letter-spacing: 2px;
+    background-color: #009688;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 50%);
+}
+
+@media (max-width:400px) {
+    #topbar {
+        padding: 0;
+    }
+    #search-wrapper {
+        display: none;
+    }
+ 
+    .mobile {
+        display: none;
+    }
+    
+    #edyoda-projects-logo {
+        bottom: 10px;
+        right: 10px;
+        width: 100px;
+    }
+    #footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #footer div:first-child{
+        margin-left: 60px;
+    }
+ 
+    main {
+        margin: 0;
+        margin-top: 0px;
+    }
+    #mainDiv1 {
+        flex-direction: column;
+    }
+    #left {
+        width: 100%;
+        position: relative;
+    }
+    #rright {
+        margin-bottom: 20px;
+    }
+    #product {
+        margin: 0;
+        padding: 10px;
+        flex-direction: column;
+    }
+    #rright {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+ }
